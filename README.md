@@ -18,7 +18,7 @@ git clone https://github.com/PSPDFKit-labs/html-to-image-laravel.git
 npm install
 ```
 
-1. Convert HTML file to an image:
+3. Convert HTML file to an image:
 
 ```bash
 php artisan convert:html-to-image public/index.html public/image.png
